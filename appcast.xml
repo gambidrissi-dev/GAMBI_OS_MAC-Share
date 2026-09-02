@@ -4,5 +4,16 @@
     <title>GambiOS Updates</title>
     <link>https://github.com/gambidrissi-dev/GAMBI_OS_MAC-Share</link>
     <description>Mises à jour de GambiOS</description>
+    <item>
+      <title>Version 0.2.0</title>
+      <pubDate>Wed, 02 Sep 2026 22:07:07 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/GAMBI_OS_MAC-Share/releases/download/v0.2.0/GambiOS-0.2.0.zip"
+                 sparkle:edSignature="ipWzyF6FRHCp+hVKta28waFRFZlTnjaqqG8VTeD2AZBRstbe6jTDzKitNbTy2n7xO6lEWep1MRuLR4yMTtZgDA=="
+                 length="1617134"
+                 type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
