@@ -38,6 +38,8 @@
   .steps { color: var(--muted); font-size: 0.9rem; line-height: 1.7; }
   .steps b { color: var(--text); }
   ul.features { color: var(--muted); font-size: 0.92rem; line-height: 1.75; padding-left: 1.1rem; margin: 0; }
+  ul.features b { color: var(--text); font-weight: 600; }
+  .card h2 { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.12em; color: var(--muted); margin: 0 0 1rem; font-weight: 600; }
   footer { color: var(--muted); font-size: 0.8rem; text-align: center; margin-top: 2rem; }
   a.plain { color: var(--accent); }
 </style>
@@ -57,12 +59,30 @@
   </div>
 
   <div class="card">
+    <h2>Suivi du quotidien</h2>
     <ul class="features">
-      <li>Tâches, notes, habitudes, projets, finances, lectures</li>
-      <li>Blocs de temps, objectifs, revues hebdomadaires et intentions du jour</li>
-      <li>Données stockées en local avec SwiftData, rien dans le cloud</li>
-      <li>Synchronisation optionnelle entre tes appareils</li>
+      <li><b>Tâches</b> — catégorie perso/cobalt/urgent, priorité, échéance, statut fait/à faire.</li>
+      <li><b>Notes</b> — contenu, tag (idée/cobalt/perso), statut idée/en cours/archivée.</li>
+      <li><b>Habitudes</b> — suivi quotidien, coché/décoché pour le jour courant.</li>
+      <li><b>Temps</b> — blocs horaires planifiés pour la journée en cours.</li>
+    </ul>
+  </div>
 
+  <div class="card">
+    <h2>Vue d'ensemble</h2>
+    <ul class="features">
+      <li><b>Projets &amp; objectifs</b> — statut à faire/en cours/livré, progression réglable par curseur.</li>
+      <li><b>Finance</b> — entrées revenu/dépense par catégorie, solde calculé en direct.</li>
+      <li><b>Lecture &amp; calendrier</b> — statut cyclique à lire → en cours → lu, vue mensuelle avec échéances.</li>
+      <li><b>Stats &amp; revue</b> — tableau de bord (tâches, habitudes, solde, projets, livres) et bilan hebdomadaire (wins / à améliorer / intentions / énergie).</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Local &amp; données</h2>
+    <ul class="features">
+      <li><b>100% local</b> — persisté avec SwiftData, sans backend ni compte requis.</li>
+      <li><b>Synchronisation optionnelle</b> — via un dépôt GitHub personnel, pour partager les données entre plusieurs Mac.</li>
     </ul>
   </div>
 
