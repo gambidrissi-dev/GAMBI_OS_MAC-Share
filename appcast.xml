@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>GambiOS Updates</title>
+    <link>https://github.com/gambidrissi-dev/GAMBI_OS_MAC-Share</link>
+    <description>Mises à jour de GambiOS</description>
+    <item>
+      <title>Version 0.4.0</title>
+      <description><![CDATA[
+<h3>Clé publique Sparkle commune aux autres apps (l'ancienne clé privée est perdue)</h3>
+      ]]></description>
+      <pubDate>Fri, 02 Oct 2026 23:32:58 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/GAMBI_OS_MAC-Share/releases/download/v0.4.0/GambiOS-0.4.0.zip"
+                 sparkle:edSignature="r5Fh+R26zzT/cdY57Hagx3YHKrSYXJEUQA0E2pr1OU0r/Il/LCYC0n7uHTkxkyT8C1pW6EeR6NUgpknszr7uDA=="
+                 length="1688414"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
