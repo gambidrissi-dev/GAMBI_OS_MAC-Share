@@ -5,6 +5,21 @@
     <link>https://github.com/gambidrissi-dev/GAMBI_OS_MAC-Share</link>
     <description>Mises à jour de GambiOS</description>
     <item>
+      <title>Version 0.4.2</title>
+      <description><![CDATA[
+<h3>build-app.sh refuse un profil fait pour un autre certificat Developer ID</h3>
+<p>La 0.4.1 est partie avec un tel profil : signée et notarisée, mais macOS refusait de l'ouvrir (« No matching profile found »).</p>
+      ]]></description>
+      <pubDate>Sun, 04 Oct 2026 00:26:58 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/GAMBI_OS_MAC-Share/releases/download/v0.4.2/GambiOS-0.4.2.zip"
+                 sparkle:edSignature="TKgSCVV0bOSvvECxVxkJDzMbbtBVNG+J6inRyVRSVe1DfF18EWl8GhXX72QMDk5Lhlh2qC1aVXDtXlUuSKhmBA=="
+                 length="1693982"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.4.0</title>
       <description><![CDATA[
 <h3>Clé publique Sparkle commune aux autres apps (l'ancienne clé privée est perdue)</h3>
