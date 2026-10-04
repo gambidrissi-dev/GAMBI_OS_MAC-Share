@@ -5,20 +5,6 @@
     <link>https://github.com/gambidrissi-dev/GAMBI_OS_MAC-Share</link>
     <description>Mises à jour de GambiOS</description>
     <item>
-      <title>Version 0.4.1</title>
-      <description><![CDATA[
-<h3>App iPhone sur la base CloudKit Production, comme le Mac</h3>
-      ]]></description>
-      <pubDate>Sun, 04 Oct 2026 00:14:36 +0000</pubDate>
-      <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/gambidrissi-dev/GAMBI_OS_MAC-Share/releases/download/v0.4.1/GambiOS-0.4.1.zip"
-                 sparkle:edSignature="T4m+rJqndTOCgbUZoc6nEJclulKVF177grCvA6NvkYJtxCdMbhbouG5QC/IPflgWwykX+2tpfaaylvENEE5ABg=="
-                 length="1693960"
-                 type="application/octet-stream" />
-    </item>
-    <item>
       <title>Version 0.4.0</title>
       <description><![CDATA[
 <h3>Clé publique Sparkle commune aux autres apps (l'ancienne clé privée est perdue)</h3>
